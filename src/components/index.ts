@@ -5,3 +5,4 @@ export { default as LargeView } from './large-view';
 export { default as ExtraLargeView } from './extra-large-view';
 export { default as NextImage } from './next-image';
 export { default as ProductContainer } from './product-container';
+export { default as ProductDetail } from './product-detail';
